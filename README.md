@@ -69,19 +69,6 @@
 
 ---
 
-## 🔒 Highlighted Private Project
-
-> *(Private repository — details limited)*
-
-- **[Your Best Private Project Name]**  
-  - Built as a **production-focused backend/AI solution**
-  - Focus areas: **scalability, architecture, performance, and maintainability**
-  - Role: **System design, API development, and intelligent feature integration**
-
-<!-- Replace [Your Best Private Project Name] with your real private project title -->
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
