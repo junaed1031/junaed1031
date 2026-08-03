@@ -23,27 +23,51 @@
 
 <div align="center">
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-1e293b?style=for-the-badge&logo=c&logoColor=5cc8ff)
-![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26)
+## 👨‍💻 Languages
 
-### ⚙️ Frameworks / Platforms
-![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![Flutter](https://img.shields.io/badge/Flutter-1e293b?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Firebase](https://img.shields.io/badge/Firebase-1e293b?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=F89820)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-1E293B?style=for-the-badge&logo=c&logoColor=5CC8FF)
+![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### 🧪 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1e293b?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-1e293b?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Jupyter](https://img.shields.io/badge/Jupyter-1e293b?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=ffffff)
+## ⚙️ Backend & Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![Flutter](https://img.shields.io/badge/Flutter-1E293B?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Firebase](https://img.shields.io/badge/Firebase-1E293B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-1E293B?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+
+## 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+
+## ⚒️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+
+## ☁️ Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MLOps](https://img.shields.io/badge/MLOps-1E293B?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![System Design](https://img.shields.io/badge/System_Design-1E293B?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705)
 
 </div>
 
