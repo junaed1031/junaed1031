@@ -115,7 +115,11 @@
 
 <div align="center">
 
-[![Junaed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junaed1031&theme=tokyonight&hide_border=true&area=true&custom_title=Junaed's%20Activity%20Graph)](https://github.com/junaed1031)
+<div align="center">
+
+[![Junaed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junaed1031&theme=tokyo-night&hide_border=true&area=true&radius=16)](https://github.com/junaed1031)
+
+</div>
 
 <br>
 
