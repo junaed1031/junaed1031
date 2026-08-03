@@ -32,20 +32,20 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-
+<br>
 ## ⚙️ Backend & Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![Flutter](https://img.shields.io/badge/Flutter-1E293B?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Firebase](https://img.shields.io/badge/Firebase-1E293B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-
+<br>
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-1E293B?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-
+<br>
 ## 🤖 AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -53,7 +53,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-
+<br>
 ## ⚒️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032)
@@ -62,7 +62,7 @@
 ![Postman](https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-
+<br>
 ## ☁️ Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED)
