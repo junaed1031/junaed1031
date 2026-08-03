@@ -82,11 +82,19 @@
 
 ---
 
-## ⚡ My Contribution Graph
+## ⚡ My Activity & Contribution Snake
 
 <div align="center">
 
-[![Junaed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junaed1031&bg_color=0d1117&color=22d3ee&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Junaed%20Contribution%20Graph)](https://github.com/junaed1031)
+[![Junaed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junaed1031&theme=tokyonight&hide_border=true&area=true&custom_title=Junaed's%20Activity%20Graph)](https://github.com/junaed1031)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junaed1031/junaed1031/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaed1031/junaed1031/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/junaed1031/junaed1031/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
